@@ -1,0 +1,4 @@
+Coucou
+Voilà un fichier !!!
+Son utilité est d'être lue
+On peut aussi écrire dessus
